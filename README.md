@@ -34,5 +34,7 @@
 ---
 
 ### **연락 방법**  
-- 📧 이메일: yoojeongkwon31@gmail.com  
-- 🌐 GitHub: [yoojeong31](https://github.com/yoojeong31)
+- EMail: yoojeongkwon31@gmail.com  
+- GitHub: [yoojeong31](https://github.com/yoojeong31)
+- Notion:
+- Linkedin: 
