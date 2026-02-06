@@ -36,5 +36,5 @@
 ### **연락 방법**  
 - E-Mail: yoojeongkwon31@gmail.com  
 - GitHub: [yoojeong31](https://github.com/yoojeong31)
-- Notion:
+- Notion: https://www.notion.so/Yoo-Jeong-Kwon-2421726ff91d81cb980bedf89a727021?source=copy_link 
 - Linkedin: 
