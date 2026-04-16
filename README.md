@@ -38,6 +38,7 @@
 
 ## Links
 - Portfolio (Notion): https://www.notion.so/Yoo-Jeong-Kwon-2421726ff91d81cb980bedf89a727021?source=copy_link
+- Portfolio (Pdf)
 - GitHub: https://github.com/yoojeong31
 - Email : yoojeongkwon31@gmail.com
 - LinkedIn : https://www.linkedin.com/in/yoojeongkwon31/
