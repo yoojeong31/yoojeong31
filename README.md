@@ -27,6 +27,7 @@
 
 - SafeCity Twin AWS (전공심화 캡스톤)
   - 교통/사고/노면/날씨 데이터를 AWS 파이프라인으로 통합하고, QuickSight 관제 대시보드를 구현
+  - Repo : https://github.com/yoojeong31/hywu-2025-capstone-ccct
 
 - ORCA (Offline RAG Cognitive Assistant)
   - 오프라인 환경에서 로컬 문서를 인덱싱하고 근거 기반 QnA를 제공하는 로컬 RAG 시스템
