@@ -1,4 +1,4 @@
-# 권유정 (Yoo-Jeong Kwon)
+# 권유정 (YooJeong Kwon)
 
 데이터 분석 · BI/시각화 · 프로젝트 관리
 
