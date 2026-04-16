@@ -14,9 +14,11 @@
   - **SW·AI 교육 캠프 운영 지원 (한양여자대학교 산학협력단)** | 2022.12 – 2023.03  
     - Colab 기반 Python 실습 보조 및 Q&A 대응
 
+
 ## Awards
 - 2023 환경 데이터 활용 및 분석 공모전 | 우수상 (분석 아이디어 부문)
 - ESG 실천 혁신 아이디어 경진대회(교내) | 우수상
+
 
 ## Projects
 - 사회 이슈 발생 시 이해관계자 개입에 따른 소비량 예측 및 시각화 (캡스톤)
@@ -34,11 +36,13 @@
   - 체열 데이터 표준 체형 매핑 및 성능 검증 프로그램 제작
   - 선호도 기반 개인화된 조향 시스템 개발(설문 기반 데이터 수집/분석)
 
+
 ## Skills
 - Data/ML : Python, pandas, scikit-learn, XGBoost, imbalanced-learn
 - BI : Tableau, Amazon QuickSight
 - Cloud/Platform : AWS(S3, Glue, Athena), Docker
 - Collaboration : Git/GitHub, Notion
+
 
 ## Links
 - Portfolio (Notion): https://www.notion.so/Yoo-Jeong-Kwon-2421726ff91d81cb980bedf89a727021?source=copy_link
