@@ -1,40 +1,43 @@
-# 안녕하세요, 권유정입니다!  
+# 권유정 (Yoo-Jeong Kwon)
 
-### 데이터 분석가 | 데이터 시각화 전문가 | 문제 해결자  
+데이터 분석 · BI/시각화 · 프로젝트 관리
 
-저는 **한양여자대학교 빅데이터과** 전공심화를 졸업했으며, 데이터를 통해 인사이트를 발견하고 이를 실행 가능한 솔루션으로 전환하는 것을 좋아합니다. **데이터 분석**, **시각화**, **프로젝트 관리** 분야에서 꾸준히 성장하고 있습니다.
+한양여자대학교 빅데이터과(전공심화)에서 데이터 분석과 시각화를 중심으로 프로젝트를 수행했습니다.  
+데이터를 정리하고 모델링한 결과를 대시보드와 문서로 전달해, 의사결정에 활용 가능한 형태로 만드는 과정에 관심이 있습니다.
 
----
+## About
+- Education: 한양여자대학교 빅데이터과 (전공심화)
+- Interests: 데이터 분석, 시각화/BI(Tableau, QuickSight), 데이터 파이프라인(AWS), 프로젝트 관리/문서화
+- Strengths: 문제 정의 → 데이터 정리 → 분석/모델링 → 시각화/리포트까지 end-to-end로 정리하는 역량
 
-### **소개**  
-- **학력**: 한양여자대학교 빅데이터과  
-- **관심 분야**: 데이터 분석, 시각화(Tableau, Python), 데이터 기반 프로젝트 관리  
-- **수상 경력**:  
-  - **환경 데이터 활용 및 분석 공모전** - 우수상 (2023)  
-  - **AI 창의융합 경진대회** - 장려상 (2023)  
-- **학습 중인 분야**: Python, Tableau 등 데이터 분석 및 시각화 기술  
+## Awards
+- 2023 환경 데이터 활용 및 분석 공모전 | 우수상 (분석 아이디어 부문)
+- ESG 실천 혁신 아이디어 경진대회(교내) | 우수상
 
----
+## Featured Projects
+- 사회 이슈 발생 시 이해관계자 개입에 따른 소비량 예측 및 시각화 (캡스톤)
+  - 뉴스 기반 이해관계자 신호를 외생 변수로 반영해 소비 변화를 예측하고, 대시보드로 탐색 가능하게 구성
+  - Repo: https://github.com/yoojeong31/graduation-work
 
-### **주요 프로젝트**  
-- **[사회 이슈 기반 소비 패턴 예측 모델](https://github.com/yoojeong31/graduation-work)**  
-  Prophet 모델을 활용해 사회 이슈 발생 시 이해관계자 개입에 따른 소비 패턴 변화를 예측하고 Tableau를 통해 시각화. 
-- **[적외선 체열 데이터 분석 및 표준 체형 매핑](#)**  
-  데이터 익명성을 확보하기 위해 표준 체형을 설계하고 의료 데이터의 신뢰도를 높이는 시스템 개발.  
-- **[사용자 선호도 기반 개인 맞춤형 조향 시스템](#)**  
-  체험단 데이터를 활용하여 사용자 선호도를 분석하고 맞춤형 향수를 추천하는 시스템 기획.  
+- SafeCity Twin AWS (전공심화 캡스톤)
+  - 교통/사고/노면/날씨 데이터를 AWS 파이프라인으로 통합하고, QuickSight 관제 대시보드를 구현
 
----
+- ORCA (Offline RAG Cognitive Assistant)
+  - 오프라인 환경에서 로컬 문서를 인덱싱하고 근거 기반 QnA를 제공하는 로컬 RAG 시스템
+  - Docker 기반 실행 환경 및 사용자 매뉴얼/영상 매뉴얼 제작
 
-### **기술 스택**  
-- **프로그래밍 언어**: Python
-- **데이터 시각화 도구**: Tableau
-- **기타**: Git
+- 연구과제
+  - 체열 데이터 표준 체형 매핑 및 성능 검증 프로그램 제작
+  - 선호도 기반 개인화된 조향 시스템 개발(설문 기반 데이터 수집/분석)
 
----
+## Skills
+- Data/ML: Python, pandas, scikit-learn, XGBoost, imbalanced-learn
+- BI: Tableau, Amazon QuickSight
+- Cloud/Platform: AWS(S3, Glue, Athena), Docker
+- Collaboration: Git/GitHub, Notion
 
-### **연락 방법**  
-- E-Mail: yoojeongkwon31@gmail.com  
-- GitHub: [yoojeong31](https://github.com/yoojeong31)
-- Notion: https://www.notion.so/Yoo-Jeong-Kwon-2421726ff91d81cb980bedf89a727021?source=copy_link 
-- Linkedin: 
+## Links
+- Portfolio (Notion): https://www.notion.so/Yoo-Jeong-Kwon-2421726ff91d81cb980bedf89a727021?source=copy_link
+- GitHub: https://github.com/yoojeong31
+- Email: yoojeongkwon31@gmail.com
+- LinkedIn: (추가 예정)
