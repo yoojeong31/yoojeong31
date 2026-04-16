@@ -37,6 +37,7 @@
   - 체열 데이터 표준 체형 매핑 및 성능 검증 프로그램 제작
   - 선호도 기반 개인화된 조향 시스템 개발(설문 기반 데이터 수집/분석)
 
+<br>
 
 ## Skills
 - Data/ML : Python, pandas, scikit-learn, XGBoost, imbalanced-learn
