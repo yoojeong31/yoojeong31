@@ -14,11 +14,13 @@
   - **SW·AI 교육 캠프 운영 지원 (한양여자대학교 산학협력단)** | 2022.12 – 2023.03  
     - Colab 기반 Python 실습 보조 및 Q&A 대응
 
+<br>
 
 ## Awards
 - 2023 환경 데이터 활용 및 분석 공모전 | 우수상 (분석 아이디어 부문)(awards/env-data-2023.md)
 - 2024 ESG 실천 혁신 아이디어 경진대회(교내) | 우수상
 
+<br>
 
 ## Projects
 - 사회 이슈 발생 시 이해관계자 개입에 따른 소비량 예측 및 시각화 (캡스톤)
@@ -45,6 +47,7 @@
 - Cloud/Platform : AWS(S3, Glue, Athena), Docker
 - Collaboration : Git/GitHub, Notion
 
+<br>
 
 ## Links
 - Portfolio (Notion): https://www.notion.so/Yoo-Jeong-Kwon-2421726ff91d81cb980bedf89a727021?source=copy_link
