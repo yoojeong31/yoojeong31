@@ -24,6 +24,8 @@
   - 역사 면적
   - 지하상가 임대정보
   - 환승 유입 순위
+  <img width="1676" height="614" alt="image" src="https://github.com/user-attachments/assets/f5a2ffb8-15d4-4e4f-9916-e772447bf6f3" />
+
     
 - 접근 방법 : 유사 환경 시설을 군집화한 뒤 이상치 탐지로 특이 케이스를 추출하고 결과를 시각화
   
