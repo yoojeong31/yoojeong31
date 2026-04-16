@@ -6,9 +6,9 @@
 데이터를 정리하고 모델링한 결과를 대시보드와 문서로 전달해, 의사결정에 활용 가능한 형태로 만드는 과정에 관심이 있습니다.
 
 ## About
-- Education: 한양여자대학교 빅데이터과 (전공심화)
-- Interests: 데이터 분석, 시각화/BI(Tableau, QuickSight), 데이터 파이프라인(AWS), 프로젝트 관리/문서화
-- Strengths: 문제 정의 → 데이터 정리 → 분석/모델링 → 시각화/리포트까지 end-to-end로 정리하는 역량
+- Education : 한양여자대학교 빅데이터과 (전공심화)
+- Interests : 데이터 분석, 시각화/BI(Tableau, QuickSight), 데이터 파이프라인(AWS), 프로젝트 관리/문서화
+- Strengths : 문제 정의 → 데이터 정리 → 분석/모델링 → 시각화/리포트까지 end-to-end로 정리하는 역량
 
 ## Awards
 - 2023 환경 데이터 활용 및 분석 공모전 | 우수상 (분석 아이디어 부문)
@@ -17,7 +17,7 @@
 ## Featured Projects
 - 사회 이슈 발생 시 이해관계자 개입에 따른 소비량 예측 및 시각화 (캡스톤)
   - 뉴스 기반 이해관계자 신호를 외생 변수로 반영해 소비 변화를 예측하고, 대시보드로 탐색 가능하게 구성
-  - Repo: https://github.com/yoojeong31/graduation-work
+  - Repo : https://github.com/yoojeong31/graduation-work
 
 - SafeCity Twin AWS (전공심화 캡스톤)
   - 교통/사고/노면/날씨 데이터를 AWS 파이프라인으로 통합하고, QuickSight 관제 대시보드를 구현
@@ -31,13 +31,13 @@
   - 선호도 기반 개인화된 조향 시스템 개발(설문 기반 데이터 수집/분석)
 
 ## Skills
-- Data/ML: Python, pandas, scikit-learn, XGBoost, imbalanced-learn
-- BI: Tableau, Amazon QuickSight
-- Cloud/Platform: AWS(S3, Glue, Athena), Docker
-- Collaboration: Git/GitHub, Notion
+- Data/ML : Python, pandas, scikit-learn, XGBoost, imbalanced-learn
+- BI : Tableau, Amazon QuickSight
+- Cloud/Platform : AWS(S3, Glue, Athena), Docker
+- Collaboration : Git/GitHub, Notion
 
 ## Links
 - Portfolio (Notion): https://www.notion.so/Yoo-Jeong-Kwon-2421726ff91d81cb980bedf89a727021?source=copy_link
 - GitHub: https://github.com/yoojeong31
-- Email: yoojeongkwon31@gmail.com
-- LinkedIn: (추가 예정)
+- Email : yoojeongkwon31@gmail.com
+- LinkedIn : https://www.linkedin.com/in/yoojeongkwon31/
