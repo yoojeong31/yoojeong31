@@ -28,14 +28,17 @@
   - 뉴스 기반 이해관계자 신호를 외생 변수로 반영해 소비 변화를 예측하고, 대시보드로 탐색 가능하게 구성
   - Repo : https://github.com/yoojeong31/graduation-work
 <br>
+
 - SafeCity Twin AWS (전공심화 캡스톤)
   - 교통/사고/노면/날씨 데이터를 AWS 파이프라인으로 통합하고, QuickSight 관제 대시보드를 구현
   - Repo : https://github.com/yoojeong31/hywu-2025-capstone-ccct
 <br>
+
 - ORCA (Offline RAG Cognitive Assistant)
   - 오프라인 환경에서 로컬 문서를 인덱싱하고 근거 기반 QnA를 제공하는 로컬 RAG 시스템
   - Docker 기반 실행 환경 및 사용자 매뉴얼/영상 매뉴얼 제작
 <br>
+
 - 기업 연구과제
   - 체열 데이터 표준 체형 매핑 및 성능 검증 프로그램 제작
   - 선호도 기반 개인화된 조향 시스템 개발(설문 기반 데이터 수집/분석)
